@@ -1,4 +1,4 @@
-Vercel link:https://el-lotteria-amank-27s-projects.vercel.app/
+Vercel link:https://el-lotteriafrontend.vercel.app/
 
 
 Frontend - ReactJS , Socket.IO-client
